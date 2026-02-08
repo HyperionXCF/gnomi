@@ -1,8 +1,8 @@
-# 🤖 AI Assistant - Floating AI Window for Ubuntu GNOME
+# gnomi
 
 A lightweight, aesthetic floating AI assistant that integrates with GroqCloud, summoned with Alt+A keyboard shortcut.
 
-## ✨ Features
+## Features
 
 - **Floating Window**: Always-on-top AI assistant window
 - **Global Hotkey**: Alt+A to toggle window visibility
@@ -11,7 +11,7 @@ A lightweight, aesthetic floating AI assistant that integrates with GroqCloud, s
 - **Lightweight**: Minimal resource usage
 - **Easy Setup**: Simple installation and configuration
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Automatic Setup (Recommended)
 
@@ -55,7 +55,7 @@ cd ai-assistant
 4. **Chat**: Type your question and press Enter
 5. **Close**: Press `Alt+A` again or `Escape` to hide the window
 
-## 🔑 API Key Setup
+## API Key Setup
 
 1. Visit [GroqCloud Console](https://console.groq.com/)
 2. Create a free account
@@ -63,14 +63,14 @@ cd ai-assistant
 4. Click the ⚙️ settings button in the AI assistant
 5. Enter your API key
 
-## 🎨 Available Models
+## Available Models
 
 - **llama-3.1-8b-instant** (Fast, efficient)
 - **llama-3.1-70b-versatile** (Powerful, balanced)
 - **mixtral-8x7b-32768** (Large context window)
 - **gemma2-9b-it** (Google's lightweight model)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ai-assistant/
@@ -84,7 +84,7 @@ ai-assistant/
 └── README.md           # This file
 ```
 
-## 🛠️ Configuration
+## Configuration
 
 The application stores configuration in `~/.ai_assistant_config.json`:
 
@@ -93,7 +93,7 @@ The application stores configuration in `~/.ai_assistant_config.json`:
 - Window position
 - Theme preferences
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Permission Issues
 If you get permission errors with keyboard shortcuts:
@@ -114,20 +114,20 @@ source venv/bin/activate
 python run.py
 ```
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 - **Alt+A**: Toggle AI window
 - **Escape**: Hide window (when open)
 - **Enter**: Send message (in input field)
 
-## 🎯 System Requirements
+## System Requirements
 
 - Ubuntu 22.04+ / Debian 11+
 - Python 3.9+
 - 2GB RAM minimum
 - 100MB disk space
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
