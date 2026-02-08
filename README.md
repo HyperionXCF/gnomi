@@ -1,4 +1,4 @@
-# gnomi
+# gnomi (doesn't work yet, has quite a few issues...)
 
 A lightweight, aesthetic floating AI assistant that integrates with GroqCloud, summoned with Alt+A keyboard shortcut.
 
