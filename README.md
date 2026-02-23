@@ -47,7 +47,7 @@ cd ai-assistant
    python run.py
    ```
 
-## 🎮 Usage
+## Usage
 
 1. **Start the Application**: Run `./start_ai_assistant.sh`
 2. **Toggle Window**: Press `Alt+A` to show/hide the AI window
@@ -60,7 +60,7 @@ cd ai-assistant
 1. Visit [GroqCloud Console](https://console.groq.com/)
 2. Create a free account
 3. Generate an API key
-4. Click the ⚙️ settings button in the AI assistant
+4. Click the settings button in the AI assistant
 5. Enter your API key
 
 ## Available Models
